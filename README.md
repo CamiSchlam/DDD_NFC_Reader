@@ -2,6 +2,9 @@
 
 This project is an NFC-based task tracking system built with a Raspberry Pi Pico W / Pico 2 W, designed to log worker interactions and assembly times for a specific sequence of product boxes. The system guides the user through the process using an OLED display, LED feedback, and sound cues, while simultaneously sending data to a Google Sheet for analysis.
 
+## Video Demo
+[Youtube link](https://youtu.be/dNafTuqlBv4)
+
 
 ## Features
 
